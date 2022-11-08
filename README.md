@@ -20,7 +20,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: VARSHA AJITH
 RegisterNumber:  212221230118
 */
-```
+
 import pandas as pd
 data = pd.read_csv("Placement_Data.csv")
 data.head()
@@ -81,8 +81,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![o3](https://user-images.githubusercontent.com/94222288/200585932-7a05c5ea-da24-42b7-a742-85813e65d4de.png)
 ![o4](https://user-images.githubusercontent.com/94222288/200585948-5c7ad030-cea5-424f-b0f6-85d7f5b5a789.png)
 ![o5](ht![o6](https://user-images.githubusercontent.com/94222288/200586003-d717f852-1135-47b8-a2b4-a93d96a1ca79.png)
-tps://user-images.githubusercontent.com/94222288/200585973-93f165d5-b330-4310-ad65-b6af651e0953.png)
-
 
 
 ## Result:

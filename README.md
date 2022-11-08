@@ -83,9 +83,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 ![o1](https://user-images.githubusercontent.com/94222288/200585900-c462b66b-06ef-4e3c-a808-4848a0b6eb04.png)
 ![o2](https://user-images.githubusercontent.com/94222288/200585913-40faf827-a6ff-40a8-8cf8-69d1d35f4cd9.png)
-![o3](https://user-images.githubusercontent.com/94222288/200585932-7a05c5ea-da24-42b7-a742-85813e65d4de.png)
-![o4](https://user-images.githubusercontent.com/94222288/200585948-5c7ad030-cea5-424f-b0f6-85d7f5b5a789.png)
-![o5](ht![o6](https://user-images.githubusercontent.com/94222288/200586003-d717f852-1135-47b8-a2b4-a93d96a1ca79.png)
+![o3](https://u![o5](https://user-images.githubusercontent.com/94222288/200587345-d89a1186-6567-4d00-ad09-c439a2eca1ba.png)
+
+![o4](htt![o5](https://user-images.githubusercontent.com/94222288/200587266-ce4c3e6c-0aca-4608-837c-2c4926e6ae7a.png)
+
+![o5](https://user-images.githubusercontent.com/94222288/200587422-79454a19-9e0c-4078-a1aa-07b6ea860331.png)
+
+
+![o6](https://user-images.githubusercontent.com/94222288/200587473-80e6d299-4c66-4a81-a6c1-54d49f956b7e.png)
+
 
 
 ## Result:

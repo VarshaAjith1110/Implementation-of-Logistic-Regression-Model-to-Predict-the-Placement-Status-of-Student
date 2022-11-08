@@ -74,7 +74,7 @@ classification_report1 = classification_report(y_test,y_pred)
 classification_report1
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 ## Output:
 ![o1](https://user-images.githubusercontent.com/94222288/200585900-c462b66b-06ef-4e3c-a808-4848a0b6eb04.png)
 ![o2](https://user-images.githubusercontent.com/94222288/200585913-40faf827-a6ff-40a8-8cf8-69d1d35f4cd9.png)

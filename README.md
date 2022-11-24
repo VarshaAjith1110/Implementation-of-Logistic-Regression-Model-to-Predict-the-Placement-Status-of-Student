@@ -9,6 +9,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
  1.Import the standard libraries.
+ 
  2.Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
  3.Import LabelEncoder and encode the dataset.
  4.Import LogisticRegression from sklearn and apply the model on the dataset.
